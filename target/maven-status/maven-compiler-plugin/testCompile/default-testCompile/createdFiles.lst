@@ -1,0 +1,15 @@
+com\ap\GuardiaCostiera\SeleniumTest\SeleniumTest.class
+com\ap\GuardiaCostiera\test\CapitanerieTest.class
+com\ap\generate\InvalidStringGenerator.class
+com\ap\GuardiaCostiera\test\GuardiaCostieraApplicationTests.class
+com\ap\generate\AlphanumericGenerator.class
+com\ap\generate\InvalidNumberGenerator.class
+com\ap\generate\StringGenerator.class
+com\ap\GuardiaCostiera\test\InterventiTest.class
+com\ap\generate\UtilFunctions.class
+com\ap\GuardiaCostiera\test\ComponentiTest.class
+com\ap\generate\DateGenerator.class
+com\ap\GuardiaCostiera\test\ComandantiTest.class
+com\ap\generate\NumberGenerator.class
+com\ap\generate\DateGeneratorInvalid.class
+com\ap\GuardiaCostiera\test\SquadreTest.class
