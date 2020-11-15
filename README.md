@@ -85,7 +85,7 @@ La realizzazione è avvenuta mediante l'utilizzo del comando "Generate Javadoc" 
 ![](images/modComandanti.png)
 
 #### Eliminazione di un comandante
-![](images/canc.Comandanti.png)
+![](images/cancComandanti.png)
 
 #### Inserimento di una Capitaneria
 ![](images/capitanerie.png)
