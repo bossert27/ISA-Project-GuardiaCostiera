@@ -7,7 +7,6 @@ Consultabile al link:
 
 ## Introduzione
 Il progetto è una semplice applicazione Web che simula la gestione di Capitanerie della Guardia Costiera. 
-Progetto interamente realizzato ai fini dell'esame di Ingegneria del software avanzata.
 
 
 Questa applicazione Web permette agli utenti di:
